@@ -194,8 +194,8 @@ This tidy data set has 180 rows and 69 columns. The first row is a header row co
 In total there are 68 columns (33 mean variables, 33 stdev variables, a subject column and an activity column)
 The following variables are presented in the tidy dataset :
  
--Subject                                       
--Activity                                      
+	 - Subject                                       
+ - Activity                                      
  - timeBodyAccelerometer-MEAN()-X                
  - timeBodyAccelerometer-MEAN()-Y              
  - timeBodyAccelerometer-MEAN()-Z                
