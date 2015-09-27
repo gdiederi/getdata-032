@@ -17,18 +17,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Unzipped files from Dataset.zip that will be used :
 
-SUBJECT FILES
 test/subject_test.txt
 train/subject_train.txt
-
-ACTIVITY FILES
 test/X_test.txt
 train/X_train.txt
-
-DATA FILES
 test/y_test.txt
 train/y_train.txt
-
 features.txt - Names of column variables in the dataTable
 activity_labels.txt - Links the class labels with their activity name.
 
